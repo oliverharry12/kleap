@@ -1,2 +1,2 @@
-# kleap
 There are a few solutions to the limitations of <a href="https://kleap.co/">AI Website Builder</a>. One solution is to use a combination of AI and human design. This means that you can use AI to generate a basic design, and then work with a human designer to customize it to your specific needs.
+Another solution is to use a more traditional website builder. Traditional website builders give you more control over the design and functionality of your website, but they can be more difficult to use.
